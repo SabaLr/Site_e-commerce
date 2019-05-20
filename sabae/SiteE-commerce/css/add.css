@@ -1,0 +1,15 @@
+form {
+  margin: 60px 97px 20px 300px;
+}
+
+#add {
+  text-align: center;
+  margin-top: 90px;
+  color: #800040;
+  text-decoration: underline;
+}
+
+.input {
+  color: Black;
+  font-weight: bold;
+}
